@@ -21,7 +21,7 @@ Understand public perception and the influence of misinformation on public senti
 * Inspire Media and influential personalities to be cognizant of their influence and share the right news
 * Wake-up General Public to be more conscious about their news consumption.
 
-# # Process
+## Process
 * Scope and Use Case Definition
 * Data gathering
 * Data pre-processing
