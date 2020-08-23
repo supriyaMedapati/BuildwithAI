@@ -14,12 +14,11 @@ We are fighting an infodemic in the midst of a pandemic.
 * At a time when reliable information is key to public health, proliferation of misinformation, pseudo-scientific news and fake news is sometimes spreading faster than the facts
 
 ## Solution
-Utilize Natural Language Processing (NLP) to assess the tweets of media and influential personalities and how it influences public sentiment
-
-Understand public perception and the influence of misinformation on public sentiment to
-* Help Policymakers with data-driven decision making to introduce checks and balances to curb the spread of misinformation
-* Inspire Media and influential personalities to be cognizant of their influence and share the right news
-* Wake-up General Public to be more conscious about their news consumption.
+* Utilize Natural Language Processing (NLP) to assess the tweets of media and influential personalities and how it influences public sentiment
+* Understand public perception and the influence of misinformation on public sentiment to
+  * Help Policymakers with data-driven decision making to introduce checks and balances to curb the spread of misinformation
+  * Inspire Media and influential personalities to be cognizant of their influence and share the right news
+  * Wake-up General Public to be more conscious about their news consumption.
 
 ## Process
 * Scope and Use Case Definition
@@ -42,15 +41,15 @@ We collected datasets under two categories in the Date range (26 June 2020 - 25 
   * Public health officials - Fortune's list of trustworthy health officials.
 
 ## Data Pre-processing
-Tweet IDs collected from zenodo dataset were hydrated
-Removed #hashtags and urls
-Performed
-* Tokenization
-* Punctuation
-* Removal of stopwords
-* Abbreviation expanding
-* Stemming
-* Correction of spellings
+* Tweet IDs collected from zenodo dataset were hydrated
+* Removed #hashtags and urls
+* Performed
+  * Tokenization
+  * Punctuation
+  * Removal of stopwords
+  * Abbreviation expanding
+  * Stemming
+  * Correction of spellings
 
 ## Data analysis
 * We identified key global events, public fears and conspiracy theories during the time frame of June 26, 2020 to July 27, 2020
